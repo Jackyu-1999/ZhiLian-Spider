@@ -2,7 +2,7 @@
 
 ## 2020年12月版本
 
-
+<img align="right" alt="GIF" width="400px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/star.png" />
 
 ### 网站特点
 
@@ -11,13 +11,7 @@
 
 ***
 
-### 真实地址
-
-* 动态接口 *https://fe-api.zhaopin.com/c/i/jobs/searched-jobs?pageNo=1&pageSize=90&cityId=-1&workExperience=-1&jobType=-1&education=-1&companyType=-1&companySize=-1* 返回数据
-
-      
-
-***
+<img>
 
 ### 思路实现
 
