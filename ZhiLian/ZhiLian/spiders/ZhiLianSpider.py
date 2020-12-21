@@ -5,14 +5,6 @@ import scrapy
 from scrapy.spiders import CrawlSpider
 from ZhiLian.items import ZhilianItem
 
-# pageSize: 返回数据的数量，默认返回50条，最多返回90条
-# pageNo: 翻页参数，默认为1
-# cityId: 城市id，默认为-1，如：`北京` 的id为 `530`
-# workExperience: 工作经验参数，默认为-1，如：`1-3年` 经验为 `0103`
-# jobType: 职位类型id，默认为-1，如：`汽车销售` 为 `19000200150000`
-#  education: 学历要求，默认为-1，如：`本科` 为 `4`
-# companyType: 公司类型，默认为-1，如：`国企` 为 `1`
-# companySize: 公司规模，默认为-1，如：`100-299人` 为 `3`
 
 
 class ZhilianspiderSpider(scrapy.Spider):
