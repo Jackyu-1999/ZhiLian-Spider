@@ -1,22 +1,12 @@
 # -*- coding: utf-8 -*-
 import json
-import time
 import scrapy
 from scrapy.spiders import CrawlSpider
 from ZhiLian.items import ZhilianItem
 
-# pageSize: 返回数据的数量，默认返回50条，最多返回90条
-# pageNo: 翻页参数，默认为1
-# cityId: 城市id，默认为-1，如：`北京` 的id为 `530`
-# workExperience: 工作经验参数，默认为-1，如：`1-3年` 经验为 `0103`
-# jobType: 职位类型id，默认为-1，如：`汽车销售` 为 `19000200150000`
-#  education: 学历要求，默认为-1，如：`本科` 为 `4`
-# companyType: 公司类型，默认为-1，如：`国企` 为 `1`
-# companySize: 公司规模，默认为-1，如：`100-299人` 为 `3`
 
 
 class ZhilianspiderSpider(scrapy.Spider):
-    start = time.time()
     name = 'ZhiLianSpider'
     allowed_domains = ['zhaopin.com']
     # 构造城市名字典，利用字典的键值对形成映射关系
@@ -38,7 +28,7 @@ class ZhilianspiderSpider(scrapy.Spider):
     # 拼接初始化Url
 
     start_urls = [
-        "https://fe-api.zhaopin.com/c/i/jobs/searched-jobs?pageNo=1&pageSize=90&cityId=" + city_id + "&workExperience=0305&jobType=" + jod_id + "&education=4&companyType=-1"]
+        "https://fe-api.zhaopin.com/c/i/jobs/searched-jobs?pageNo=1&pageSize=90&cityId=" + city_id + "&workExperience=-1&jobType=" + jod_id + "&education=4&companyType=-1"]
 
     cotype_list = ['国企: 1', '外商独资: 2', '代表处: 3', '合资: 4', '民营: 5', '股份制企业: 8', '上市公司: 9', '国家机关: 6', '事业单位: 10',
                    '银行: 11',
@@ -211,8 +201,7 @@ class ZhilianspiderSpider(scrapy.Spider):
                 # print(item)
                 yield item
 
-    end = time.time()
-    print("本次爬取花费时间为：" + str(end - start))
+
 
 
 
