@@ -11,6 +11,7 @@ from scrapy import Field
 
 
 
+# 继承父类scrapy.Item的属性和方法，该类用于定义需要爬取数据的子段
 class ZhilianItem(scrapy.Item):
     # define the fields for your item here like:
     # 职位名称

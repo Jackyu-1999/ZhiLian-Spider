@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bb3d5b7-fc31-4364-b167-65566c2e0791" name="Default Changelist" comment="" />
+    <list default="true" id="4bb3d5b7-fc31-4364-b167-65566c2e0791" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhiLian/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZhiLian/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhiLian/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZhiLian/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhiLian/spiders/.ipynb_checkpoints/JobData-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ZhiLian/spiders/.ipynb_checkpoints/JobData-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhiLian/spiders/JobData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ZhiLian/spiders/JobData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhiLian/spiders/ZhiLianSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZhiLian/spiders/ZhiLianSpider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhiLian/spiders/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/ZhiLian/spiders/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhiLian/spiders/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZhiLian/spiders/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,38 +20,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/ZhiLianSpider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="3605">
+              <caret line="184" column="27" lean-forward="true" selection-start-line="184" selection-start-column="27" selection-end-line="184" selection-end-column="27" />
               <folding>
                 <element signature="e#24#35#0" expanded="true" />
-                <element signature="e#2298#3725#0" />
-                <element signature="e#3787#5170#0" />
-                <element signature="e#5232#6580#0" />
-                <element signature="e#6645#8021#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZhiLian/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
-              <folding>
-                <element signature="e#143#152#0" />
               </folding>
             </state>
           </provider>
@@ -61,36 +46,38 @@
       <find>&gt;&gt;&gt;</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ZhiLian/settings.py" />
         <option value="$PROJECT_DIR$/ZhiLian/middlewares.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/__init__.py" />
         <option value="$PROJECT_DIR$/ZhiLian/mian.py" />
         <option value="$PROJECT_DIR$/ZhiLian/add_header.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/add_header.py" />
-        <option value="$PROJECT_DIR$/ZhiLian/spiders/data.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/csv.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/add_csv.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/parent.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/child.py" />
         <option value="$PROJECT_DIR$/ZhiLian/items.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/test.py" />
-        <option value="$PROJECT_DIR$/ZhiLian/spiders/ZhiLianSpider.py" />
-        <option value="$PROJECT_DIR$/ZhiLian/spiders/main.py" />
         <option value="$PROJECT_DIR$/ZhiLian/A.py" />
         <option value="$PROJECT_DIR$/ZhiLian/tools.py" />
         <option value="$PROJECT_DIR$/ZhiLian/mysql_tools.py" />
-        <option value="$PROJECT_DIR$/ZhiLian/pipelines.py" />
         <option value="$PROJECT_DIR$/ZhiLian/spiders/mongo.py" />
+        <option value="$PROJECT_DIR$/ZhiLian/spiders/data.py" />
+        <option value="$PROJECT_DIR$/ZhiLian/settings.py" />
+        <option value="$PROJECT_DIR$/ZhiLian/spiders/main.py" />
+        <option value="$PROJECT_DIR$/ZhiLian/pipelines.py" />
+        <option value="$PROJECT_DIR$/ZhiLian/spiders/ZhiLianSpider.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="670" />
-    <option name="y" value="60" />
+    <option name="x" value="-100" />
     <option name="width" value="1335" />
     <option name="height" value="1015" />
   </component>
@@ -99,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,9 +108,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -142,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mongo">
+  <component name="RunManager" selected="Python.main">
     <configuration name="ZhiLianSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ZhiLian" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +153,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="add_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="add_csv (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ZhiLian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/tools" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/tools/add_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ZhiLian" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +188,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZhiLian/spiders/add_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZhiLian/spiders/data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,35 +241,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ZhiLian" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZhiLian/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZhiLian/spiders/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mongo" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.data" />
+        <item itemvalue="Python.add_csv (1)" />
+        <item itemvalue="Python.mongo" />
         <item itemvalue="Python.ZhiLianSpider" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.add_csv" />
       </list>
     </recent_temporary>
   </component>
@@ -285,23 +273,42 @@
       <workItem from="1608452986077" duration="419000" />
       <workItem from="1608453535924" duration="519000" />
       <workItem from="1608454092627" duration="6484000" />
+      <workItem from="1608509946809" duration="109000" />
+      <workItem from="1608514128808" duration="780000" />
+      <workItem from="1608531612676" duration="10356000" />
+      <workItem from="1608545409138" duration="877000" />
+      <workItem from="1608553155965" duration="843000" />
+      <workItem from="1608555380417" duration="4916000" />
+      <workItem from="1608560643560" duration="586000" />
+      <workItem from="1608561410686" duration="2119000" />
+      <workItem from="1608564359084" duration="613000" />
+      <workItem from="1608595729845" duration="11993000" />
+      <workItem from="1608609702043" duration="3200000" />
+      <workItem from="1608683689365" duration="6586000" />
+      <workItem from="1608707470121" duration="1766000" />
+      <workItem from="1608725104389" duration="627000" />
+      <workItem from="1608768229778" duration="2862000" />
+      <workItem from="1608861787347" duration="4815000" />
+      <workItem from="1608868926586" duration="597000" />
+      <workItem from="1608889568089" duration="1478000" />
+      <workItem from="1608970007669" duration="226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98113000" />
+    <option name="totallyTimeSpent" value="153236000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18456376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="13" y="385" width="1442" height="528" id="Run" order="2" type="FLOATING" weight="0.35131195" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5568513" />
+      <window_info anchor="bottom" x="11" y="346" width="1430" height="474" id="Run" order="2" weight="0.56413996" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43002915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -329,10 +336,11 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ZhiLian$main.coverage" NAME="main Coverage Results" MODIFIED="1608461141682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
+    <SUITE FILE_PATH="coverage/ZhiLian$main.coverage" NAME="main Coverage Results" MODIFIED="1608890144325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
     <SUITE FILE_PATH="coverage/ZhiLian$add_header__1_.coverage" NAME="add_header (1) Coverage Results" MODIFIED="1608277107990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian" />
     <SUITE FILE_PATH="coverage/ZhiLian$add_header.coverage" NAME="add_header Coverage Results" MODIFIED="1608342101479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
-    <SUITE FILE_PATH="coverage/ZhiLian$data.coverage" NAME="data Coverage Results" MODIFIED="1608381613722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
+    <SUITE FILE_PATH="coverage/ZhiLian$data.coverage" NAME="data Coverage Results" MODIFIED="1608708614195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
+    <SUITE FILE_PATH="coverage/ZhiLian$add_csv__1_.coverage" NAME="add_csv (1) Coverage Results" MODIFIED="1608545689903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/tools" />
     <SUITE FILE_PATH="coverage/ZhiLian$add_csv.coverage" NAME="add_csv Coverage Results" MODIFIED="1608424800742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
     <SUITE FILE_PATH="coverage/ZhiLian$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1608440905190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
     <SUITE FILE_PATH="coverage/ZhiLian$ZhiLianSpider.coverage" NAME="ZhiLianSpider Coverage Results" MODIFIED="1608444668923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZhiLian/spiders" />
@@ -369,13 +377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZhiLian/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1203">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ZhiLian/add_header.py" />
     <entry file="file://E:/Anaconda/Lib/site-packages/scrapy/utils/misc.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -398,33 +399,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Anaconda/Lib/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="2982" column="13" lean-forward="true" selection-start-line="2982" selection-start-column="13" selection-end-line="2982" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/csv.py" />
     <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/add_header.py" />
     <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/add_csv.py" />
-    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/data.py" />
     <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/child.py" />
     <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/parent.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Anaconda/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -435,61 +414,112 @@
     <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/test.py" />
     <entry file="file://$PROJECT_DIR$/ZhiLian/A.py" />
     <entry file="file://$PROJECT_DIR$/ZhiLian/tools.py" />
-    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/ZhiLianSpider.py">
+    <entry file="file://$PROJECT_DIR$/ZhiLian/mysql_tools.py" />
+    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/mongo.py" />
+    <entry file="file://$PROJECT_DIR$/../Helloyingjie/Helloyingjie/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="58">
+          <caret line="4" column="65" lean-forward="true" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tools/add_header.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tools/add_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
-            <element signature="e#24#35#0" expanded="true" />
-            <element signature="e#2298#3725#0" />
-            <element signature="e#3787#5170#0" />
-            <element signature="e#5232#6580#0" />
-            <element signature="e#6645#8021#0" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZhiLian/mysql_tools.py">
+    <entry file="file://E:/Anaconda/Lib/site-packages/pymongo/pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="88" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="88" />
+        <state relative-caret-position="21">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="7122" selection-start-line="7122" selection-end-line="7122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="1066" selection-start-line="1066" selection-end-line="1066" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/data.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/JobData.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ZhiLian/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="548">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhiLian/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZhiLian/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-490">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="-782">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
             <element signature="e#154#167#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZhiLian/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/ZhiLian/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
-          <folding>
-            <element signature="e#143#152#0" />
-          </folding>
+        <state relative-caret-position="888">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/mongo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/main.py">
+    <entry file="file://$PROJECT_DIR$/ZhiLian/spiders/ZhiLianSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="3605">
+          <caret line="184" column="27" lean-forward="true" selection-start-line="184" selection-start-column="27" selection-end-line="184" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
