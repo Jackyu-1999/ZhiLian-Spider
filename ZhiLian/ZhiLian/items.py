@@ -28,8 +28,6 @@ class ZhilianItem(scrapy.Item):
     coattr = scrapy.Field()
     # 公司规模
     cosize = scrapy.Field()
-    # 职位类别
-    rank = scrapy.Field()
     # 工作经验
     worktime = scrapy.Field()
     # 福利待遇
