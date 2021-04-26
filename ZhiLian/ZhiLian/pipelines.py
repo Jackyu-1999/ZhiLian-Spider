@@ -16,7 +16,7 @@ class ZhilianPipeline(object):
         # 使用哪个集合
         myset = mydb['info']
         infomations = {'职位名称': item['poname'], '公司名称': item['coname'], '工作城市': item['city'], '薪资范围': item['providesalary'], '学历要求': item['degree'],
-                         '公司类型': item['coattr'], '公司规模': item['cosize'], '职位类别': item['rank'], '工作经验': item['worktime'], '福利待遇': item['welfare']}
+                         '公司类型': item['coattr'], '公司规模': item['cosize'], '工作经验': item['worktime'], '福利待遇': item['welfare']}
 
         myset.insert(infomations)
         return item
