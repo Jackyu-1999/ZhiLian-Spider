@@ -169,8 +169,6 @@ class ZhilianspiderSpider(scrapy.Spider):
                 item['coattr'] = data['property']
                 # 公司规模
                 item['cosize'] = data['companySize']
-                # 职位类别
-                item['rank'] = data['jobType']
                 # 工作经验
                 item['worktime'] = data['workingExp']
                 # 福利待遇
