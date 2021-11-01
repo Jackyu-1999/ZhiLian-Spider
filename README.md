@@ -1,6 +1,6 @@
 # 基于Scrapy和Pyecharts的智联招聘爬虫以及数据可视化
 
-## 2020年12月版本
+## 2021.11.1号经测试仍然可用
 
 <img align="right" alt="GIF" width="400px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/star.png" />
 
